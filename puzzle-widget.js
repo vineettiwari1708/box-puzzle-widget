@@ -198,7 +198,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const TILE_SIZE = PUZZLE_SIZE / GRID_DIM;
 
   // Reliable house image with CORS enabled
-  const houseImgSrc = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/House_icon.svg/1024px-House_icon.svg.png";
+  const houseImgSrc = "https://www.freechristmaswallpapers.net/web/wallpapers/Christmas-House_1024x768.jpeg";
 
   // Create floating button (center right)
   const btn = document.createElement("button");
