@@ -203,7 +203,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Create floating button (center right)
   const btn = document.createElement("button");
   btn.id = "open-puzzle-widget";
-  btn.innerHTML = `<i class="bi bi-house-fill"></i>`;
+  btn.innerHTML = `<i class="bi bi-puzzle" style="font-size: 28px;"></i>`;
   Object.assign(btn.style, {
     position: "fixed",
     top: "50%",
