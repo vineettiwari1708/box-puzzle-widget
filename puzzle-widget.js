@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const TILE_SIZE = PUZZLE_SIZE / GRID_DIM;
 
   // Sample house image (replace with your own)
-  const houseImgSrc = "https://i.imgur.com/5q0LYpH.png";
+  const houseImgSrc = "http://localhost/urbanfeatconstruction/wp-content/uploads/2025/07/house-1.png";
 
   // Create floating button
   const btn = document.createElement("button");
